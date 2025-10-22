@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cheese",
-    "slug": "snack-67f58a03-7ee9-4d6c-94a8-69df8fd84387",
+    "name": "VetLab Pro Final",
+    "slug": "vetlab-pro-final",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "package": "com.farzan.vetlabpro", 
       "edgeToEdgeEnabled": true
     },
     "web": {
